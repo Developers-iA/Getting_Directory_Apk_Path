@@ -1,0 +1,2 @@
+com/getdirapkpath/ia/BuildConfig.java
+ com.getdirapkpath.ia.BuildConfig
